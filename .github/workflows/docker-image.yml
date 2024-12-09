@@ -1,4 +1,4 @@
-name: Merge Script
+name: docker-create-and-push
 
 on:
   push:
